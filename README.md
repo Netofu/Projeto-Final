@@ -1,11 +1,5 @@
 # Projeto-Final
 
-# Instalar o Nodemon
-
-Instalar o Nodemon com o:
-
-npm install -D nodemon
-
 # Modo desenvolvimento com nodemon
 
 para assim:
