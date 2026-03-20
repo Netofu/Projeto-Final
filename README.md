@@ -1,14 +1,23 @@
 # Projeto-Final
 
-# Instalar o Nodemon
+# Database
 
-Instalar o Nodemon com o:
+docker compose up -d
 
-npm install -D nodemon
+# Backend
 
-# Modo desenvolvimento com nodemon
+cd gamevault/backend
+npm install
+npm run dev
 
-para assim:
-npm run dev  
-# ou
+# Frontend
+
+cd gamevault/frontend
+npm install
+npm start
+
+# No Browser:
+
+http://localhost:3001
+
 npm start    # Modo produção
